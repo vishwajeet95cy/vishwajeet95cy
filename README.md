@@ -3,8 +3,8 @@
 ## 🧑‍💻 Full Stack Developer | MERN Stack Specialist  
 📍 Noida, India  
 📧 vishwajeet95cy@gmail.com  
-📱 +91 8092662011 | +91 7903117685  
-🔗 [GitHub](https://github.com/vishwajeet95cy) | [LinkedIn](https://linkedin.com/in/vishwajeet95cy)
+📱 +91 8092662011 
+🔗 [GitHub](https://github.com/vishwajeet95cy) | [LinkedIn](https://www.linkedin.com/in/vishwajeet-kumar-70128b137/)
 
 ---
 
