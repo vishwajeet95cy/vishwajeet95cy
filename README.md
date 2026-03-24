@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-Experienced **MERN Stack Developer** with **4+ years** in full-stack web development, specializing in:
+Experienced **MERN Stack Developer** with **5.2 years** in full-stack web development, specializing in:
 
 - **Frontend:** React.js, Redux, Next.js, HTML5, CSS3, Bootstrap, Material UI, Responsive Design
 - **Backend:** Node.js, Express.js, RESTful APIs, JWT, OAuth, Passport.js
